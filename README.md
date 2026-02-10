@@ -1,69 +1,51 @@
 <h1 align="center">👋 Mohamed Zahzouh</h1>
 
 <p align="center">
-  🤖 <strong>Artificial Intelligence & Data Engineering Student</strong><br>
+  🤖 <strong>Étudiant en Intelligence Artificielle & Ingénierie des Données</strong><br>
   🎓 École Supérieure de Technologie de Nador (EST Nador)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Data%20Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Student-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domaine-Intelligence%20Artificielle-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spécialité-Ingénierie%20des%20Données-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statut-Étudiant-success?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Profile
-🎯 AI & Data Engineering student with a strong analytical mindset, focused on **data-driven systems**, **model reliability**, and **end-to-end ML pipelines**.  
-Interested in bridging **theory, engineering, and real-world deployment**.
+## 🧠 Profil
+🎯 Étudiant en **Intelligence Artificielle et Ingénierie des Données**, avec une approche rigoureuse orientée **analyse scientifique**, **fiabilité des modèles** et **chaînes de traitement de données complètes** (de la collecte à l’exploitation).
 
 ---
 
-## 🎯 Core Expertise
-- 🤖 Machine Learning (supervised & unsupervised)
-- ⏱️ Time Series Forecasting
-- 🧬 Data Engineering & Feature Pipelines
-- 📊 Data Analysis & Visualization
-- ⚙️ Intelligent Systems & Automation
+## 🎯 Domaines d’expertise
+- 🤖 Machine Learning (supervisé & non supervisé)
+- ⏱️ Séries temporelles & prévision
+- 🧬 Ingénierie des données & pipelines
+- 📊 Analyse et visualisation des données
+- ⚙️ Systèmes intelligents & automatisation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack technique
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/Python-advanced-blue?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-advanced-lightgrey?logo=postgresql)
+### 🧑‍💻 Langages
+![Python](https://img.shields.io/badge/Python-avancé-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-avancé-lightgrey?logo=postgresql)
 
-### 📚 Data Science & AI
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
-![Prophet](https://img.shields.io/badge/Prophet-Time%20Series-purple)
+### 📚 Data Science & IA
+![Pandas](https://img.shields.io/badge/Pandas-Analyse%20de%20données-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Calcul%20scientifique-blue?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikitlearn)
+![Prophet](https://img.shields.io/badge/Prophet-Séries%20temporelles-purple)
 
-### ⚙️ Engineering & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-Data%20Apps-red?logo=streamlit)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+### ⚙️ Outils & ingénierie
+![Streamlit](https://img.shields.io/badge/Streamlit-Applications%20data-red?logo=streamlit)
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?logo=github)
-![SQL](https://img.shields.io/badge/Databases-SQL%20%7C%20NoSQL-blue)
-
----
-
-## 📐 Work Methodology
-- 📌 Problem formalization
-- 📊 Statistical data understanding
-- 🧠 Model selection & validation
-- 📈 Metric-based evaluation
-- 📝 Clean documentation & reproducibility
-
----
-
-## 🚀 Academic & Career Goals
-🎓 Engineering school specialization in AI  
-🔬 Applied research in data science  
-🛡️ Long-term interest in intelligent systems for security and decision support
+![Bases de données](https://img.shields.io/badge/Bases%20de%20données-SQL%20%7C%20NoSQL-blue)
 
 ---
 
 <p align="center">
-  <em>“Building intelligent systems starts with deeply understanding data.”</em>
+  <em>« Concevoir des systèmes intelligents commence par une compréhension profonde des données. »</em>
 </p>
