@@ -42,7 +42,7 @@
 ### ⚙️ Outils & ingénierie
 ![Streamlit](https://img.shields.io/badge/Streamlit-Applications%20data-red?logo=streamlit)
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black?logo=github)
-![Bases de données](https://img.shields.io/badge/Bases%20de%20données-SQL%20%7C%20NoSQL-blue)
+![Bases de données](https://img.shields.io/badge/Bases%20de%20donn%C3%A9es-SQL-blue)
 
 ---
 
